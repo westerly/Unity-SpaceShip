@@ -1,19 +1,23 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{FC0BE816-3D29-C56E-9087-34E75A431BE7}") = "Spatial shoot", "Assembly-CSharp-vs.csproj", "{D7E62F9A-C7B0-422E-90BA-561CBE111A42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{D7E62F9A-C7B0-422E-90BA-561CBE111A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E62F9A-C7B0-422E-90BA-561CBE111A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E62F9A-C7B0-422E-90BA-561CBE111A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E62F9A-C7B0-422E-90BA-561CBE111A42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-					GlobalSection(MonoDevelopProperties) = preSolution
+																																GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

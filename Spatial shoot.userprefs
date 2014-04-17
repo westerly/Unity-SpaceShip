@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CameraMovementScript.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SpaceShipMovementScript.js">
     <Files>
-      <File FileName="Assets\SpaceShipMovementScript.js" Line="71" Column="78" />
-      <File FileName="Assets\CameraMovementScript.js" Line="28" Column="20" />
+      <File FileName="Assets\SpaceShipMovementScript.js" Line="130" Column="88" />
+      <File FileName="Assets\CameraMovementScript.js" Line="33" Column="1" />
+      <File FileName="Assets\GameplayScript.js" Line="44" Column="1" />
+      <File FileName="Assets\EnnemyMovementScript.js" Line="116" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
